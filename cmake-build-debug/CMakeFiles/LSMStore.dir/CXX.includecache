@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seagel/CLionProjects/LSMStore/MemTable.cpp
+MemTable.h
+/Users/seagel/CLionProjects/LSMStore/MemTable.h
+iostream
+-
+
+/Users/seagel/CLionProjects/LSMStore/MemTable.h
+set
+-
+
